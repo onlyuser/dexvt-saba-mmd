@@ -1,0 +1,10 @@
+.cproject
+.project
+.settings
+*.swp
+*.ico
+data
+build
+bin
+output.*
+lib
